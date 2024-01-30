@@ -15,8 +15,8 @@ import matplotlib as mpl
 # global settings
 ######################################################################
 
-mpl.lines.width = 2
-mpl.axes.labelsize = 14
+# mpl.lines.width = 2
+# mpl.axes.labelsize = 14
 
 
 ######################################################################
